@@ -8,4 +8,4 @@ Included Folders:
 
 2 - Synthetic Data Generation: The folder with the codes to generate the synthetic data used to test the different GP models. Note:
 
-DOI: 
+DOI: https://doi.org/10.5281/zenodo.15231456
